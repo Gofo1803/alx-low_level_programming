@@ -1,3 +1,4 @@
+#include<stdio.h>
 /**
  * main - The start
  * Return: 0
