@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 /**
- *  Hello, puts
- */   
+ * main - The start
+ * Return: 0
+ */
 
 int main(void)
 	{
